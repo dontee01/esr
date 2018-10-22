@@ -6,5 +6,5 @@
 
 ## About Easy Retail Pay
 
-ESR Pay is a platform that makes transaction tranquil.
+ESR Pay is a platform that makes transactions tranquil.
 
